@@ -11,7 +11,7 @@ function App() {
           <img src={logo} className="App-logo img-fluid" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultkey="sunset" />
         </main>
         <footer className="App-footer">Coded by AnnaS</footer>
       </div>
